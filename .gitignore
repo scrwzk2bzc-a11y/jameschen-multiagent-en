@@ -1,0 +1,6 @@
+# 归档口径说明
+# 本目录为 t-20261122-archive-v2 的 git-ready 发布件
+# 正文与附录由 WH 产出并经 plan-jc 93.0 + om-jc 90 双通道审查通过
+# 素材源文件（materials/ 等）不随发布，仅发布成文内容
+assets/
+*.tmp
